@@ -1,4 +1,32 @@
+Spotify: https://open.spotify.com/track/734dz1YaFITwawPpM25fSt
+YouTube: https://www.youtube.com/watch?v=0TFNGRYMz1U
+
 Key: Dm
+
+Refrain: 8888 8867 | DmDmDmDm DmDmBbC
+
+Verse:   8 8 7 7 | Dm Dm C  C
+         6 6 4 5 | Bb Bb Gm Am
+         --------
+         6 6 7 7 | Bb Bb C  C
+
+Chorus:  1 4 7 3 | Dm Gm C  F
+         6 2 5 5 | Bb Eo Am Am
+
+Bridge:  6 7 8 8 | Bb C  Dm Dm
+
+Structure:
+    Refrain * 4
+    Verse
+    Chorus
+    Refrain * 1
+    Verse
+    Chorus
+    Refrain * 4
+    Bridge
+    Chorus
+    Chorus
+    Refrain * 4
 
 Donnez-moi une suite au Ritz, je n'en veux pas
 Des bijoux de chez Chanel, je n'en veux pas

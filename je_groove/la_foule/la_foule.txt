@@ -2,24 +2,26 @@ Youtube: https://www.youtube.com/watch?v=o2Tz1yV48NQ
 
 Key: Em
 
-Refrain:  4  1  5M  1
-Verse:    1  4  7  3
-          5M 1  6  5M
-Chorus:   7  3  7  3
-          5M 1  6  5M
+Refrain:  4  1  5M 1   |  Am  Em  B7 Em
+
+Verse:    1  4  7  3   |  Em  Am  D  G
+          5M 1  6  5M  |  B7  Em  C  B7
+
+Chorus:   7  3  7  3   |  D   G   D  G
+          5M 1  6  5M  |  B7  Em  C  B7
 
 Structure:
-Refrain
-Verse
-Verse
-Chorus
-Chorus
-Refrain
-Verse
-Chorus
-Chorus
-Refrain
-Refrain
+    Refrain
+    Verse
+    Verse
+    Chorus
+    Chorus
+    Refrain
+    Verse
+    Chorus
+    Chorus
+    Refrain
+    Refrain
 
 Je revois la ville en fête et en délire
 Suffoquant sous le soleil et sous la joie

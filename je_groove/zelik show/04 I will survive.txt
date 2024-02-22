@@ -1,4 +1,24 @@
+Spotify: https://open.spotify.com/track/7rIovIsXE6kMn629b7kDig
+
 Key: Gm
+
+Verse/Chorus: 1   4   7   3 |  Gm Cm F Bb
+              6   2M7 5   5 |  Eb A7 D D
+
+Structure:
+    Apreggio
+    Verse
+    Verse
+    Verse
+    Chorus
+    Solo
+    Verse
+    Verse
+    Verse
+    Chorus
+    ......
+
+
 
 At first, I was afraid, I was petrified
 Kept thinking I could never live without you by my side
