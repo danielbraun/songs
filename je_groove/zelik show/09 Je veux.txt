@@ -10,8 +10,8 @@ Verse:   8 8 7 7 | Dm Dm C  C
          --------
          6 6 7 7 | Bb Bb C  C
 
-Chorus:  1 4 7 3 | Dm Gm C  F
-         6 2 5 5 | Bb Eo Am Am
+Chorus:  1 6 7 5 | Dm Bb C  Am
+         6 4 5 5 | Bb Gm Am Am
 
 Bridge:  6 7 8 8 | Bb C  Dm Dm
 
