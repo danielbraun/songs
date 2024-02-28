@@ -2,6 +2,17 @@ Spotify: https://open.spotify.com/track/7vh6dHYstdeUUg4MdV0yFT
 
 Key: Fm (all Harmonic except bridge)
 
+Fm chords:
+Degree | Natural | Harmonic
+---------------------------
+1      | Fm7     | Fm maj7
+2      | G dim7  | G dim7
+3      | Ab maj7 | Ab aug
+4      | Bbm7    | Bbm7
+5      | Cm7     | C7
+6      | Db maj7 | Db maj7
+7      | Eb7     | E dim
+
 Parts:
     Intro   5555 6644
     Refrain 4444 5555 .... 1111
