@@ -1,6 +1,7 @@
 Spotify: https://open.spotify.com/track/7vh6dHYstdeUUg4MdV0yFT
 
 Key: Fm (all Harmonic except bridge)
+
 Deborah: Gm
 
 Gm chords:
