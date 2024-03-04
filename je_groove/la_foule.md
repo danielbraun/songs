@@ -13,7 +13,7 @@ Parts:
               5M 1  6  5M  |  B7  Em  C  B7
 
 Structure:
-
+    Intro (2,3,1,2,3)
     Refrain
     Verse
     Verse
