@@ -20,12 +20,12 @@ Structure:
     Verse
     Chorus
     Refrain * 1
-    Verse
+    Verse (piano high notes)
     Chorus
-    Refrain * 4
-    Bridge
-    Chorus
-    Chorus
+    Refrain * 4 (solo)
+    Bridge (solo, piano high notes)
+    Chorus (piano high notes)
+    Chorus (piano high notes)
     Refrain * 4
 
 Donnez-moi une suite au Ritz, je n'en veux pas
