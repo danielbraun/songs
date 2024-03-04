@@ -19,8 +19,8 @@ Gm chords:
 
 Parts:
 
-    Intro   5555 6644
-    Refrain 4444 5555 .... 1111
+    Intro   5555 6644 5555 6644 1111 1111
+    Refrain 4444 5555 4444 5555
     Verse   1166 7755 1166 5555
             4444 1111 6666 5555 
             (7 on harmonic! dim on b1)
@@ -29,28 +29,28 @@ Parts:
 
 Structure:
 
-    Intro   .... .... .... .... .... ....
+    Intro
 
-    Refrain .... .... .... .... .... ....
-    Verse   .... .... .... .... .... .... .... ....
-    Bridge  .... .... .... ....
-    Chorus  .... .... .... .... .... .... .... ....
+    Refrain (2 extra bars)
+    Verse
+    Bridge
+    Chorus
 
-    Refrain .... .... .... ....
-    Verse   .... .... .... .... .... .... .... ....
-    Bridge  .... .... .... ....
-    Chorus  .... .... .... .... .... .... ....
+    Refrain
+    Verse   
+    Bridge  
+    Chorus  (7 bars in stead of 8)
 
-    Intro   .... .... .... .... .... ....
+    Intro
 
-    Refrain .... .... .... .... .... ....
-    Verse   .... .... .... .... .... .... .... ....
-    Bridge  .... .... .... ....
-    Chorus  .... .... .... .... .... .... .... ....
+    Refrain (2 extra bars)
+    Verse
+    Bridge
+    Chorus
 
-    Chorus  .... .... .... .... .... .... .... ....
-    Marlen  .... .... ....
-    Intro   .... .... .... .... .... ....
+    Chorus
+    Marlen  (3 bars)
+    Intro
 
 Lyrics:
 
