@@ -3,17 +3,17 @@ Spotify: https://open.spotify.com/track/7vh6dHYstdeUUg4MdV0yFT
 Key: Fm (all Harmonic except bridge)
 Deborah: Gm
 
-Fm chords:
+Gm chords:
 
 | Degree | Natural | Harmonic |
 | ------ | ------- | -------- |
-| 1      | Fm7     | Fm maj7  |
-| 2      | G dim7  | G dim7   |
-| 3      | Ab maj7 | Ab augM7 |
-| 4      | Bbm7    | Bbm7     |
-| 5      | Cm7     | C7       |
-| 6      | Db maj7 | Db maj7  |
-| 7      | Eb7     | E dim.   |
+| 1      | Gm7     | Gm maj7  |
+| 2      | A dim7  | A dim7   |
+| 3      | Bb maj7 | Bb augM7 |
+| 4      | Cm7     | Cm7      |
+| 5      | Dm7     | D7       |
+| 6      | Eb maj7 | Eb maj7  |
+| 7      | F7      | F# dim   |
 
 
 Parts:
