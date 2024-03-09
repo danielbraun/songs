@@ -2,6 +2,8 @@ Vocal Harmonies: https://www.youtube.com/watch?v=9nDZEYnrS0g
 
 Spotify: https://open.spotify.com/track/3qI94hINNNeb4S7xQi18lS
 
+Youtube: https://www.youtube.com/watch?v=XWE-ujTSXP4
+
 Lyrics: https://www.azlyrics.com/lyrics/jacksons/blameitontheboogie.html
 
 Parts:
