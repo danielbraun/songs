@@ -13,7 +13,7 @@ Parts:
     I just can't: Cm
         3333 1111 4444 7777
         
-    Chorus: Fm
+    Chorus: Fm (Eb mixolydian)
         Melody:  77       77       77      67
         High:    99       9b9b     9b8     67
         High 2:  44       44       44      67
