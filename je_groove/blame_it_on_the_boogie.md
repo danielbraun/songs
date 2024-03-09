@@ -22,7 +22,8 @@ Parts:
         Low:     55       5b5b     43      67
         Bass:    77       66       66      67
         =======================================
-        Chords:  Eb6      Db9sus4  Db7     DbEb
+        Chords:  7^6      6^9sus4  6^7     67
+                 Eb6      Db9sus4  Db7     DbEb
                 
   
 Structure: (row = 8 bars)
