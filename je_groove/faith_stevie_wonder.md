@@ -9,8 +9,7 @@ Grooves:
     Verse:  8. .7 .5 .7
     Bridge: 1. 84 57 54
 
-
-Chords all:
+Chords verse/chorus:
 
     1 1 1 1
     4 4 1 1
