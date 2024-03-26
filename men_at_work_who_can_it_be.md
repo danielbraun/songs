@@ -9,10 +9,10 @@ Key: F#m (Myxolidian E with dominant 5)
 Parts:
 
     Verse:    7777 6666 5555 554M
-    Chorus:   5555 4M4M 5555 4M4M
-    C Part:   7777 6666 7777 6666
-    Sax Solo: 7777 6666 7777 6666
-    Outro:    4M4M 3333 4M4M 3333
+    Chorus:   5555 5555 4M4M 4M4M
+    C Part:   1111 4M4M 1111 4M4M
+    Sax Solo: 7777 7777 6666 6666
+    Outro:    4M4M 4M4M 3333 3333 (vocals 8 7)
     
     
 Structure:
