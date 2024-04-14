@@ -1,0 +1,50 @@
+verse:
+    1 Intro
+    2 Verse ("You've got to be crazy... without thinking")
+    3 Verse ("After a while... put the knife in")
+    4 Guitar solo
+    5 Verse ("Gotta keep one eye...dying of cancer")
+    6 Instrumental
+em9 half time 1 box
+
+chorus:
+    1 time
+
+Middle:
+    1 Intro: Em9 x 8 + (C + D/C) x 2 + (B+ B)   + (B-G-F#)
+    2 Solo:  Em9 x 8 + (C + D/C) x 4
+    3 Solo:  Em9 x 4 + (C + D/C) x 2 + (B+ B)   + (B-G-F#)
+    4 Verse: Em9 x 8 + C.......      + (B5 x 2) + (B-G-F#)
+             You'll reap the harvest you have sown
+             The bad blood slows and turns to stone
+    5 Verse: Em9 x 4 + (C + D/C) x 2 + (B+ B)   + (B-G-F#)
+                       So have a good drown
+                       As you go down all alone
+                                                  Dragged down by the stone.
+Instrumental
+    4 rounds, 4th ends with half times
+
+Verse:
+    1 Intro
+    2 Verse ("Got to admit... out of this maze")
+    3 Verse ("Dead, dumb and blind... But you believe at heart everyone's a killer") 8ths vocals falsetto
+    4 Solo
+Em9 half time 1 box
+Chorus:
+    1 time
+1 box pause
+
+Coda:
+    Em + D
+    Pain, Fan, Man, Personnel, Chain, Back, Pack, Home, End, Phone
+
+    C     B5           B       G    F#           Em9
+    Stone      Who was dragged down by the stone
+    Vocals: bass notes
+
+
+
+
+
+
+

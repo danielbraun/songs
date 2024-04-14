@@ -1,4 +1,35 @@
-Key: E
+Scale: E
+
+Intro:
+    1111 1111 1111 1111
+Verse:
+    1111 4411 1111 5555 5555 5555 5555
+Chorus:
+    1111 4411 1111 4411 1155 4444
+
+C Part:
+
+
+C Part:
+    DDDD
+    DDDD
+    AAAA
+    AAAA
+    BBBB
+    BBBB
+    EEEE
+    EEEE
+
+Structure: (bars)
+    intro  4
+    verse  7
+    chorus 6
+    intro  2
+    verse  6
+    chorus 6
+    c part 8
+
+    chorus 4 times
 
 Billy-Ray was a preacher's son
 And when his daddy would visit he'd come along
@@ -14,6 +45,8 @@ The only boy who could ever teach me
 Was the son of a preacher man
 Yes he was, he was
 Ooh, yes he was
+instrumental
+instrumental
 
 Being good isn't always easy
 No matter how hard I try
@@ -52,4 +85,4 @@ I kissed the son of a preacher man
 The only one who could ever move me
 The sweet-lovin' son of a preacher man
 The only one who could ever groove me
-Ahh, ooh, ahh.... 
+Ahh, ooh, ahh....

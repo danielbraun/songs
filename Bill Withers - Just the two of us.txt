@@ -1,4 +1,36 @@
-Key: Gm
+E harmonic minor
+Capo 1
+
+Chorus:
+    6  6  5  5
+    1  1b 7  3
+    6  6  5  5
+    1  1  1  1
+
+Bridge:
+Cmaj7  B7  Bbmaj7  A7  Abmaj7 G7 (hits) Cmaj7   F13
+
+F13 =
+3
+3
+0
+1
+0
+1
+
+
+
+verse
+chorus
+
+verse
+chorus
+
+bridge
+solo s2
+chorus
+bridge
+
 
 I see the crystal raindrops fall
 And the beauty of it all

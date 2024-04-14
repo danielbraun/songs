@@ -1,0 +1,4 @@
+Scale: C#m
+
+Verse:
+1 7 5 6

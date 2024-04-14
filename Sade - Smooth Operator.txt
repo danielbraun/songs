@@ -1,0 +1,37 @@
+Key: Dm
+BPM: 120
+
+intro       88887777
+chorus      88776677
+bridge      4444555511111111
+solo guitar 8888888866667777
+solo sax    chorus double time
+
+guitas effects: chorus all whole song
+pickups: neck whole song, solos bridge
+
+
+....                             bass intro
+................................ intro
+
+................................ verse diamond life
+................................       city lights
+
+................................ bridge no place for beginners
+................
+
+................................ smooth operator
+................................ coast to coast
+
+................................ solo guitar
+................................ solo sax
+
+................................ verse face to face
+................................ bridge a license to love
+................
+
+................................ smooth operator
+................................ coast to coast
+................................ smooth operator
+................................ smooth operator
+................................ smoothoperator fade out

@@ -1,0 +1,226 @@
+Key:
+  Originl: Fm
+  Deborah: Em
+
+LyricsURL: https://www.paroles.net/dalida/paroles-paroles-paroles
+
+Strucure:
+  2 Intro
+  7  verse A (encore des mots)
+  7  verse A (des mots faciles)
+  9  mais c'est fini
+  16 caramel
+  12 paroles
+  2  extra
+  7  verse A (encore des mots)
+  7  verse A (des mots faciles)
+  9  rien ne t'arrete
+  16 caramel
+  12 paroles
+  12 paroles
+  2  outro
+  1  ending chords
+  ========
+  119 total
+
+Chords:
+  Intro: 4bdim7 5M 1 1
+  Verse A:
+    1 4 7 1
+    1 6 5
+  Verse B:
+    1 4 7 3
+    6 5 5 5
+    5
+  Pre-Chorus:
+    1 1 4 4
+    1 1 4 7
+    3 6 6 6
+    7bdim7 2M 5M 5M
+  Chorus:
+    1 1 4 4
+    7 7 3 6
+    7bdim7 5 1 1
+
+Lyrics:
+  Alain Delon:
+    C'est étrange
+    Je n'sais pas ce qui m'arrive ce soir
+    Je te regarde comme pour la premiere fois
+
+  Dalida:
+    Encore des mots toujours des mots Les memes mots
+
+  Alain Delon:
+    Je n'sais plus comment te dire
+
+  Dalida:
+    Rien que des mots
+
+  Alain Delon:
+    Mais tu es cette belle histoire d'amour
+    Que je ne cesserai jamais de lire
+
+  Dalida:
+    Des mots faciles des mots fragiles
+    C'était trop beau
+
+  Alain Delon:
+    Tu es d'hier et de demain
+
+  Dalida:
+    Bien trop beau
+
+  Alain Delon:
+    De toujours ma seule vérité
+
+  Dalida:
+    Mais c'est fini le temps des rêves
+    Les souvenirs se fanent aussi
+    Quand on les oublie
+
+  Alain Delon:
+    Tu es comme le vent qui fait chanter les violons
+    Et emporte au loin le parfum des roses
+
+  Dalida:
+    Caramels, bonbons et chocolats
+
+  Alain Delon:
+    Par moments, je ne te comprends pas
+
+  Dalida:
+    Merci, pas pour moi
+    Mais tu peux bien les offrir à une autre
+    Qui aime le vent et le parfum des roses
+    Moi, les mots tendres enrobés de douceur
+    Se posent sur ma bouche
+    Mais jamais sur mon coeur
+
+  Alain Delon:
+    Une parole encore
+
+  Dalida:
+    Paroles, paroles, paroles
+
+  Alain Delon:
+    Ecoute-moi
+
+  Dalida:
+    Paroles, paroles, paroles
+
+  Alain Delon:
+    Je t'en prie
+
+  Dalida:
+    Paroles, paroles, paroles
+
+  Alain Delon:
+    Je te jure
+
+  Dalida:
+    Paroles, paroles, paroles, paroles, paroles
+    Encore des paroles que tu sèmes au vent
+
+  Alain Delon:
+    Voila mon destin te parler
+    Te parler comme la premiere fois
+
+  Dalida:
+    Encore des mots toujours des mots
+    Les mêmes mots
+
+  Alain Delon:
+    Comme j'aimerais que tu me comprennes
+
+  Dalida:
+    Rien que des mots
+
+  Alain Delon:
+    Que tu m'écoutes au moins une fois
+
+  Dalida:
+    Des mots magiques des mots tactiques
+    Qui sonnent faux
+
+  Alain Delon:
+    Tu es mon rêve défendu
+
+  Dalida:
+    Oui, tellement faux
+
+  Alain Delon:
+    Mon seul tourment et mon unique espérance
+
+  Dalida:
+    Rien ne t'arrête quand tu commences
+    Si tu savais comme j'ai envie
+    D'un peu de silence
+
+  Alain Delon:
+    Tu es pour moi la seule musique
+    Qui fit danser les étoiles sur les dunes
+
+  Dalida:
+    Caramels, bonbons et chocolats
+
+  Alain Delon:
+    Si tu n'existais pas deja je t'inventerais
+
+  Dalida:
+    Merci, pas pour moi
+    Mais tu peux bien les ouvrir a une autre
+    Qui aime les étoiles sur les dunes
+    Moi, les mots tendres enrobés de douceur
+    Se posent sur ma bouche
+    Mais jamais sur mon coeur
+
+  Alain Delon:
+    Encore un mot juste une parole
+
+  Dalida:
+    Paroles, paroles, paroles
+
+  Alain Delon:
+    Ecoute-moi
+
+  Dalida:
+    Paroles, paroles, paroles
+
+  Alain Delon:
+    Je t'en prie
+
+  Dalida:
+    Paroles, paroles, paroles
+
+  Alain Delon:
+    Je te jure
+
+  Dalida:
+    Paroles, paroles, paroles, paroles, paroles
+    Encore des paroles que tu sèmes au vent
+
+  Alain Delon:
+    Que tu es belle
+
+  Dalida:
+    Paroles, paroles, paroles
+
+  Alain Delon:
+    Que tu es belle
+
+  Dalida:
+    Paroles, paroles, paroles
+
+  Alain Delon:
+    Que tu es belle
+
+  Dalida:
+    Paroles, paroles, paroles
+
+  Alain Delon:
+    Que tu es belle
+
+  Dalida:
+    Paroles, paroles, paroles, paroles, paroles
+    Encore des paroles que tu sèmes au vent

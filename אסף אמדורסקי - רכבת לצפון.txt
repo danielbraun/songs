@@ -1,0 +1,34 @@
+Original: Dm
+ours: Bm
+
+6 4 3 5
+
+riff on 5
+
+structure:
+    intro
+    intro
+    guitar
+    verse
+    verse
+    verse
+    verse
+    guitar
+    verse
+    verse
+    verse
+    verse
+    guitar
+    chorus
+    chorus
+    solo
+    solo
+    verse (silent then aloud)
+    verse
+    1 bar break
+    chorus
+    chorus
+    guitar
+    guitar
+    guitar
+    guitar

@@ -1,0 +1,59 @@
+Key:
+  Original: E
+  Deborah: A
+
+Structure:
+  4 Intro
+  7 Verse (As around the sun)
+  1 Move G#m7  G#m6  C#m7  F#7
+  7 Verse (As now can't reveal)
+  8 Short Chorus
+  7 Verse (Did you know)
+  1 Move
+  7 Verse (As today I know)
+  16 Full Chorus
+  7 Verse (Did you know)
+  1 Move
+  7 Verse (As around the sun)
+  16 Full Chorus
+
+Lyrics:
+  As around the sun:
+    As Around The Sun The Earth Know She's Revolving
+    And the rosebuds know to bloom in early may
+    Just as hate knows love's the cure, You can rest your mind assured
+    that I'll be loving you always....
+  As now can't reveal:
+    As now can't reveal the mystery of tomorrow
+    But in passing will grow older everyday
+    Just as all that's born is new, You know what I say is true
+    That I'll be loving you always (1 missing bar)
+  Short Chorus:
+    Until the rainbow burns the stars out of the sky
+    Until the ocean covers every mountain high
+    Until the day that 8 times 8 times 8 is 4
+    Until the day that is the day that are no more
+  Did you know:
+    Did you know that true love asks for nothing
+    Her acceptance is the way we pay
+    Did you know that life has given love a guarantee
+    To last through forever and another day
+  As today I know:
+    As today I know I'm living but tomorrow
+    Could make me the past, but that I mustn't fear
+    I know deep in my mind, the love of me I've left behind
+    Cause I'll be loving you always (1 missing bar)
+  Full Chorus:
+    Until the rainbow burns the stars out in the sky
+    Until the ocean covers every mountain high
+    Until the dolphin flies and parrots live at sea
+    Until we dream of life and life becomes a dream
+    Until the day is night and night becomes the day
+    Until the trees and seas just up and fly away
+    Until the day that 8 times 8 times 8 is 4
+    Until the day that is the day that are no more
+    misding chord
+  Did you know: ...
+  As around the sun: ...
+  Full Chorus: ....
+

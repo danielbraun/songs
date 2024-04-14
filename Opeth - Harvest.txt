@@ -1,0 +1,17 @@
+Intro: Em
+1 (x12)
+4 5 1 (x4)
+4 5
+
+Verse:
+Cm: 1 1 1 6 5 5 5M 5M
+
+Chorus:
+Am:  1 5
+hBm: 1 6 5 5
+Am:  1 5
+Am:  2m 4 1 1b
+
+Solo:
+Dm Dm Am Am
+G#m Bm Gm Gm

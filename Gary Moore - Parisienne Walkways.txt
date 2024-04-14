@@ -1,0 +1,34 @@
+Key:
+  Original: Am
+
+Intro solo:
+  1 4 7 3
+  6 2 5 1
+
+Verse:
+  Chords:
+    1 4 7 3
+    6 2 5 1M
+  Lyrics:
+    I remember Paris in 49
+    The Champs-Élysées, Saint Michelle and old Beaujolais wine
+    And I recall that you were mine
+    In those Parisienne days
+
+Solo:
+  4 7 3 6
+  2 5 1 x
+
+Verse looking back the photographs:
+  Lyrics:
+    Looking back at the photographs
+    Those summer days spent outside corner cafes
+    Oh, I could write you paragraphs
+    About my old Parisienne days
+  Chords:
+    4   7   3   6
+    2   2M  5,6 5
+
+Solo:
+  4    7    3    6
+  2,5M 1,4  1,4  1,4 1,4...

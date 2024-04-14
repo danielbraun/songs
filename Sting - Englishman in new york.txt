@@ -1,0 +1,12 @@
+
+Scale: Bm
+
+verse/chorus: 4 7 1
+
+C part:
+
+3     7
+1     5M
+6     7
+5M/7b 1
+
