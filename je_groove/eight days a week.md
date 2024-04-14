@@ -2,7 +2,7 @@ Key: Bm (D Major)
 
 Parts:
 
-    (4M to support chromatic descent on 5th)
+    (4M to support chromatic descent on 5th, ooh la la la)
 
     Intro:  verse with bass 3
     Verse:  3  4M 6  3 
