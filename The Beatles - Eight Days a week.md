@@ -15,9 +15,7 @@ Structure:
     
     Intro (4)
     Verse Chorus
-    Verse Chorus
-    Bridge
-    Verse Chorus
-    Bridge
-    Verse Chorus + Reprise (4)
+    Verse Chorus Bridge
+    Verse Chorus Bridge
+    Verse Chorus Reprise (4)
     Intro (4)
