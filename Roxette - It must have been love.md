@@ -17,7 +17,7 @@ Parts:
                 3  7  6  8
 
     ChorBNoMod: 3  6  41 7 
-                3  7m 3  3  6  6
+                3  7m 3  3  2b 2b
      
 Structure:
 
