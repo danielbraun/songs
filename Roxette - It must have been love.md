@@ -28,5 +28,5 @@ Structure:
     Keys Solo
     
     Chorus A
-    Chorus B no modulation
+    ChorBNoMod
     Chorus A
