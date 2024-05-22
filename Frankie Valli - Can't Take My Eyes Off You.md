@@ -17,7 +17,7 @@ Parts:
               4  7  3  1
     
     Chorus2:  4  7  5  1
-              4  4  2b 2b 
+              4  4  6n 6m
 Structure:
     
     Intro
