@@ -1,4 +1,7 @@
 ```
+.... .... .... .... .... .... .... ....
+8877 666m 8877 666m 4444 115M 6655 1111
+
 He deals the cards as a meditation
 And those he plays never suspect
 He doesn't play for the money he wins
