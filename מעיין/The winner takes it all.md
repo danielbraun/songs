@@ -2,6 +2,7 @@ https://s3.amazonaws.com/halleonard-pagepreviews/HL_DDS_0000000000475161.png
 
 Key:
     Original: Ebm (Capo 4, Bm position)
+    Dominic Miller: Em Position
 
 Parts:
 
