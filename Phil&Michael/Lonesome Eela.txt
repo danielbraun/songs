@@ -1,0 +1,22 @@
+Intro:        A    Amaj7 A    Amaj7
+Verse:        A    Amaj7 A7   D 
+              A    D A   A D  E A
+PreChorus:    G    Bm7   A    Asus4
+PreC->Chorus: PreChorus 
+              G    Bm7   C#7  C#7
+Chorus:       F#m7 A     Bm7  C#7sus4,C#7
+
+.... .... .... .... Intro
+.... .... .... .... .... .... .... .... Verse
+.... .... .... .... .... .... .... .... Prechorus 
+.... .... .... .... Intro 
+.... .... .... .... .... .... .... .... Verse
+.... .... .... .... .... .... .... .... Verse
+.... .... .... .... .... .... .... .... Prechorus 
+.... .... .... .... .... .... .... .... Prechorus->Chorus 
+
+.... .... .... .... .... .... .... .... Chorus
+.... .... .... .... .... .... .... .... Solo
+.... .... .... .... .... .... .... .... Solo
+
+.... Ending
