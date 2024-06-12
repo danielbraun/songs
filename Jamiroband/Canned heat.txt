@@ -5,7 +5,7 @@ Verse
 Chorus
 Chorus
 Boogie Minor
-Verse           Melody
+Verse        Melody
 Chorus
 Chorus
 Boogie Major
