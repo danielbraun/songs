@@ -1,0 +1,26 @@
+Intro            3 . . .
+Verse            3 . . . . . . .
+PreChorusWeak    1 1 6 6
+PreChorusStrong  1 1 6 7
+Chorus           3 3 3 3 1 1 7 7
+Bridge           6 . 1 . 6 . 6 1M
+
+Intro
+Verse + PreChorusWeak
+Verse + PreChorusStrong
+Chorus
+Chorus
+
+Verse + PreChorusStrong 
+Chorus
+Chorus
+
+Bridge
+[ +1 Modulation ]
+Chorus (Solo Sax)
+Chorus
+Chorus
+Verse (Quiet) + (7 7)
+Chorus
+Chorus
+Chorus
