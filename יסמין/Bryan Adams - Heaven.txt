@@ -1,0 +1,18 @@
+Intro:  3 1 7 6
+Verse   3 1 7 . 4 1 2b 7
+        3 1 7 . 4 1 2b 1 7 .
+Chorus: 67 1. 3. 6. 67 1. 7. 7.
+Bridge: 4. .3 6. .7 1. .. 7. .3
+        4. .3 6. .. 3. .. 7. ..
+
+Intro x2
+Verse
+Chorus
+Intro x1
+Verse
+Chorus +2extra
+Bridge
+Solo (Chorus x 1)
+Chorus
+Chorus
+Chorus x1, Intro
