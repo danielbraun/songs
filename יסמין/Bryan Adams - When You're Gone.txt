@@ -2,6 +2,7 @@ Key: Am
 
 Chorus  4 6 3 7 ... 4 2b 7 7
 Verse   4 7 3 3 ... 4 2b 7 7
+Ending  4 2b 6 6
 
 ....     Intro (Chorus)
 
