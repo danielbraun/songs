@@ -3,23 +3,33 @@
 
 Key: Bm (D)
 
-Parts:
+Verse:     3 7 1 1
+           6 6 3 3
+           4 4 4 4
 
-    Verse:   3   3   7/2 7/2
-             1   1   1   1
-             6   6   3/5 3/5
-             4   4   4   4
-    Pre-Chorus: 5566 7777
-    Chorus:  3   3   7/2 7/2
-             4   4   4   4 
-             6   6   6   7
-    C Part:  C   G/B Bb  F
-             C   G/B Dm  A
- 
-Structure:
-    Verse  + Prechorus (2)
-    Chorus + extra (2)
-    Verse
-    Chorus
-    C Part
-    Chorus loop
+Prechorus: 5 6 7 7
+
+Chorus:    3 7 4 4 6 7
+
+Bridge:    C G Bb F
+           C G Dm A
+
+........      Verse (I could stay awake)
+........      Verse (I could spend my Life)
+
+....          Pre-Chorus (Every moment spent with you)
+
+......        Chorus
+...... ....   Chorus 
+
+........      Verse (Lying close to you)
+........      Verse (And when I kiss your eyes)
+
+......        Chorus
+.......       Chorus
+
+........      Bridge (I don't miss one smile)
+........ ..   Bridge (I just wanna hold you close)
+
+......        Chorus
+......        Chorus loop
