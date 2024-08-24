@@ -2,25 +2,25 @@ Verse,Chorus: E D/E
 Prechorus:    A G/A
 
 
-Intro (Drums)
-Intro (Verse)
+........ Intro (Drums)
+........ Verse (Intro)
 
-Verse
-Prechorus
-Chorus
+........ Verse (Hey pretty baby)
+........ Prechorus (I feel you fever from miles around)
+........ Chorus
 
-Verse
-Prechorus
-Chorus
+........ Verse (I like the feeling you're giving)
+........ Prechorus (Never felt so in love before)
+........ Chorus
 
-Solo (Verse)
-Prechorus
-Chorus
+........ Verse (Solo)
+........ Prechorus (Never felt so in love before)
+........ Chorus
 
-Chorus
-Chorus (Ain't nobody's business)
-Chorus (Give it to me)
-Chorus (Hee hee)
-Chorus (Bass only, Back vocals)
-Chorus (Give it to me)
+........ Chorus
+........ Chorus (Ain't nobody's business)
+........ Chorus (Give it to me)
+........ Chorus (Hee hee)
+........ Chorus (Bass only, Back vocals)
+........ Chorus (Give it to me)
 

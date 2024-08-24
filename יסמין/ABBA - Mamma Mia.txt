@@ -21,6 +21,7 @@ Mamma Mia Minor: 3 1 62b6 47
 ....     Mamma Mia
 ......   Yes I've been broken hearted
 ....     Mamma Mia Minor
+
 ....     Intro
 ........ I've been angry and sad
 ........ And when you go
@@ -28,10 +29,12 @@ Mamma Mia Minor: 3 1 62b6 47
 ....     Mamma Mia
 ....     Mamma Mia
 ......   Yes I've been broken hearted
+
 ....     Mamma Mia
 ....     Mamma Mia
 ....     Mamma Mia
 ....     Mamma Mia
 ......   Yes I've been broken hearted
 ....     Mamma Mia Minor
+
 ........ Intro

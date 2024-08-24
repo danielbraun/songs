@@ -1,30 +1,29 @@
-Key:
-  Original: F#m
-  Deborah: Gm
-
-Structure:
-  2 Drums  8 Bass 4 Keys
-  8 Verse  4 Tail
-  8 Verse
-  8 Pre-Chorus
-  8 Chorus 4 Tail
-  8 Verse  4 Tail
-  8 Verse
-  8 Pre-Chorus
-  8 Chorus
-  8 Chorus 4 Tail
-  8 Solo   4 Tail
-  8 Chorus 4 Tail
-  8 Chorus
-  8 Chorus
-
-Chords:
-  Verse/Chorus:
+Key: F#m
+Verse/Chorus:
     1 1 1 1
     4 4 1 1
-  Pre-Chorus:
+Pre-Chorus:
     6 1 6 1
-    6 1 4 5M
+	6 1 4 5M
+
+..            Drums
+........ .... Intro Bass, keys
+
+........ .... Verse (She was more like a beauty queen)
+........      Verse (She told me her name was billie Jean)
+........      Prechorus (People always told me)
+........ .... Chorus
+
+........ .... Verse (For 40 days and for 40 nights)
+........      Verse (She told, My baby, wed danced til 3)
+........      Prechorus (People always told me)
+........      Chorus
+
+........ .... Chorus
+........ .... Chorus (Solo + She said I am the one)
+........ .... Chorus
+........      Chorus
+
 
 Lyrics:
   She was more like a beauty queen

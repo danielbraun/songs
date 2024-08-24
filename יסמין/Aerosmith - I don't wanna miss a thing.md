@@ -17,7 +17,6 @@ Parts:
              C   G/B Dm  A
  
 Structure:
-
     Verse  + Prechorus (2)
     Chorus + extra (2)
     Verse

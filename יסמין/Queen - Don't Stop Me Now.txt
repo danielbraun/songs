@@ -1,33 +1,47 @@
-3... 5... 1... 4... 7... Tonight
-3... 3^7. 6... 4^7. 1M^7 And the world
-4.37 4... 4.37 4... 7... Don't stop me now
+Intro
+	3    5    1    4   7
+	3    3    6    4   1M
+	4.37 4... 4.37 4   7
 
-3... 5... 1... 4... 7...      I'm a shooting star
-3... 5... 1... 4... 7... 3... I'm a racing car
-3... 6... 4... 1M.. 4...      I'm burning through the sky
-1M.. 4... 4^7. 7...           I'm travelling at the speed of light
-note: 1M/4b
+Verse
+	3  5  1  4  7 
+	3  5  1  4  7  3
+	3  6  4  1M 4
+	1M 4  4  7
 
-3.45 1... 4... 7...                 Don't stop me now, have a ball
-3.45 1... 4... 1M^7/4b              Don't stop me now, give me a call
-4.37 4... 4.37 4... 7... 3... ....  Don't stop me, don't wanna stop at all
+Chorus
+	3.45  1  4    7               
+	3.45  1  4    1M
+	4.37  4  4.37 4  7  3  3
 
-.... .... .... .... ....      I'm rocketship on my way to mars
-.... .... .... .... .... .... I'm a sex machine ready to reload
-.... .... .... .... ....      I'm burning through the sky
-.... .... ....                I'm travelling at the speed of light
+.....  Intro: Tonight
+.....  And the world
+.....  Don't stop me now
 
-.... .... .... ....           Don't stop me interlude
-.... .... .... .... .... .... Don't stop me interlude
+.....  Verse: I'm a shooting star
+...... I'm a racing car
+.....  I'm burning through the sky
+....   I'm travelling at the speed of light
 
-.... .... .... .... ....      Guitar Solo
-.... .... .... .... .... .... Guitar Solo
-.... .... .... .... ....      I'm burning through the sky
-.... .... .... ....           I'm travelling at the speed of light
+....   Chorus: Don't stop me now, have a ball
+....   Don't stop me now, give me a call
+...... Don't stop me, don't wanna stop at all
 
-.... .... .... ....           Don't stop me now, have a ball
-.... .... .... ....           Don't stop me now, give me a call
-.... .... .... .... .... .... Don't stop me, don't wanna stop at all
+.....  Verse: I'm rocketship on my way to mars
+...... I'm a sex machine ready to reload
+.....  I'm burning through the sky
+...    I'm travelling at the speed of light
 
+.....  Interlude: Don't stop me interlude
+...... Don't stop me interlude
 
-.... .... .... .... .... .... ....  Intro
+.....  Verse: Guitar Solo
+...... Guitar Solo
+.....  I'm burning through the sky
+....   I'm travelling at the speed of light
+
+....   Chorus: Don't stop me now, have a ball
+....   Don't stop me now, give me a call
+...... Don't stop me, don't wanna stop at all
+
+.....  Intro

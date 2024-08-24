@@ -1,32 +1,30 @@
-Intro  1 7/1
+Key: Am
 
-Verse: 1 7 3^7 6 6m 3 1  6
-Bass     1       4b 7 7b  
+Intro:  1 7
 
-Chorus 35 65  7. ..
-       65 4M7 3. ..
+Verse:  1  7 3 6 
+        6m 3 1 6
+
+Chorus: 3 5 6  5 7
+        3 5 6  5 7
+        6 5 4M 7 3 
  
-Bridge 1 4M 6 3
-       1 4M 6 7 .
+Bridge: 1 4M 6 3
+        1 4M 6 7 7
 
-Outro  3 4 5 6
+Outro:  3 4 5 6
 
-
-Intro
-
-Verse
-Verse
-Chorus
-
-Bridge
-Verse
-Chorus
-
-Outro/desperate hearts
-Outro
-Outro
-Outro
-Outro
-Outro
-Outro
-
+....         Intro
+........     Verse (I kept the right ones out)
+........     Verse (When I lost my grip)
+............ Chorus 
+.........    Bridge
+........     Verse (You have to learn to crawl)
+............ Chorus 
+....         Outro (Desperate hearts)
+....         Outro
+....         Outro
+....         Outro
+....         Outro
+....         Outro
+....         Outro

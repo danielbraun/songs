@@ -1,25 +1,26 @@
-Verse   4  7  3  3 
-Tail    4  2b 7  7
-Chorus  4  6  3  7
+Key: Am
 
-Am
+Chorus  4 6 3 7 ... 4 2b 7 7
+Verse   4 7 3 3 ... 4 2b 7 7
 
-Verse
-Verse
+....     Intro (Chorus)
 
-Chorus
-Chorus
+........ Verse  (wanderin' around the house all night)
+........ Verse  (phone don't ring)
 
-Verse
-Verse
+........ Chorus 
+........ Chorus 
 
-Chorus
-Chorus
+........ Verse  (I've been driving up and down these streets)
+........ Verse  (this is torture, this is pain)
 
-Verse (Solo)
-Verse (Solo)
+........ Chorus
+........ Chorus
 
-Chorus
-Chorus
+........ Verse  (Solo)
+........ Verse  (Solo)
 
-Ending
+........ Chorus
+........ Chorus
+
+.... Ending
