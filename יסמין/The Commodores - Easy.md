@@ -1,3 +1,6 @@
+*TODO* Easy
+
+
 https://spytunes.com/easy-chords/
 
 Parts:
