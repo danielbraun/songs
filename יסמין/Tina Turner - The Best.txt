@@ -7,18 +7,16 @@ PreChorusStrong  1 1 6 7
 Chorus           3 3 3 3 1 1 7 7
 Bridge           6 . 1 . 6 . 7 1M
 
-Intro
-Verse + PreChorusWeak
-Verse + PreChorusStrong
-Chorus
-Chorus
-
-Verse + PreChorusStrong 
-Chorus
-Chorus
-
-Bridge
-[ +1 Modulation ]
-Chorus (Solo Sax)
-Chorus
-Chorus
+....          Intro
+........ .... Verse + PreChorusWeak
+........ .... Verse + PreChorusStrong
+........      Chorus
+........      Chorus
+........ .... Verse + PreChorusStrong
+........      Chorus
+........      Chorus
+........      Bridge Modulation +1
+........      Chorus (Solo sax) 
+........      Chorus (You're the best)
+........      Chorus (I'm stuck on your heart)
+.             You're the best
