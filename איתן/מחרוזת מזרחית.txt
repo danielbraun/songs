@@ -23,12 +23,10 @@ Pnei Malach
 ....     Prechorus 41 41 37 37
 ........ Chorus    63 71
 Rona
-........  Intro 1111 1733 3355 5511
-........  Intro (Rona Sheli)
-... ... . Chorus 1111 7777 6667 (Holech miKan)
-
-.... .... .... .... IntroB 
-.... .... .... .... .... .... .... .... VerseB (Shaon 3)
-4444 6666 4444 6667
-.... .... .... .... Prechorus (Kolech Elai Kore)
-.... .... .... .... .... .... .... Chorus (Holech miKan)
+........  RonaSheli 1111 1733 3355 5511 (Intro)
+........  RonaSheli 
+... ... . Chorus    1111 7777 6667 
+....      Shaon3    1111 1733 4444 2b11 (Intro)
+........  Shaon3 
+....      Prechorus 4444 6667           (Kolech Elai Kore)
+... ... . Chorus 
