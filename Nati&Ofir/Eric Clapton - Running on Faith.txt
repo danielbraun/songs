@@ -1,0 +1,24 @@
+Verse  32 12 32 17 
+       33 77 36 77|73|2b6 
+
+Chorus 66 5M 13 65
+       4M 4M 66 77
+
+Coda   33 2b 66 66
+
+........ Verse Intro
+
+........ Verse
+........ Verse
+........ Chorus
+
+........ Verse
+........ Verse Solo
+........ Chorus
+
+........ Verse
+
+........ Coda
+........ Coda
+........ Coda
+..       Coda
