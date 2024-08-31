@@ -1,10 +1,12 @@
 Key: Am (C)
 
-Verse/Intro: 3 7
-Chorus:      1736|17
+Verse/Intro: 3 7       8ths
+Chorus:      1736|17  
 Bridge: Cm   3676 3677
                 ^
                 1st Inv
+
+Bass line before chorus
 
 ..          Intro
 ........    Verse

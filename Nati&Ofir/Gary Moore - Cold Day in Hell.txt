@@ -2,7 +2,7 @@ Intro:  66116515
 
 Verse:  1411
 
-Chorus: 3 4  5 4  (4M,5M)
+Chorus: 3 4  5 4  (4M,5M)  8ths
         3 45 1 5
 
 Bridge: 6 6 1 1
