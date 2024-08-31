@@ -1,10 +1,10 @@
-Key: Bm (D)
+Key: Am (C)
 
 Verse/Intro: 3 7
 Chorus:      1736|17
-Bridge: Dm   3676 3677
-                   ^
-                   1st Inv?
+Bridge: Cm   3676 3677
+                ^
+                1st Inv
 
 ..          Intro
 ........    Verse
@@ -16,7 +16,7 @@ Bridge: Dm   3676 3677
 ........ .. Chorus
 
 ........    Intro
-........    Brdige Dm
+........    Brdige Cm
 
 ........    Intro
 ........    Verse
