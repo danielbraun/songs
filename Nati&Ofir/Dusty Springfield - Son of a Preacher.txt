@@ -1,0 +1,11 @@
+....     Intro
+.......  Verse
+......   Chorus
+
+..       Intro
+......   Verse
+......   Chorus
+
+........ Bridge
+......   Chorus
+........ Coda (the only one)
