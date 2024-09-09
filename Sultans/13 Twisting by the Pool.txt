@@ -1,0 +1,31 @@
+Verse	      3367
+PreChorus	  6767 6777 77
+Chorus	      3636 3633
+Bridge	      1155 1377 77
+
+....          Intro
+
+........      Verse
+..........    PreChorus
+........      Chorus
+
+........      Verse
+..........    PreChorus
+........      Chorus
+
+............  Bridge
+
+........      Verse
+........      PreChorus
+........      Chorus
+
+........      Breaks
+
+..........    PreChorus
+........      Chorus
+........      Chorus
+....          Drums
+........      Chorus
+........      Chorus
+....          Drums
+........      Chorus

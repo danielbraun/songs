@@ -1,5 +1,8 @@
 Parts:
     Riff:   .... .... .... ....
+            E/Ab B/F# A/E
+            EEEB AAA
+            3337 666? 7777 6677
     Chorus: .... .... .... ....
 
 Riff x 1 (Keyboard only)
