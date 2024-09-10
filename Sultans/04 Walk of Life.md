@@ -1,13 +1,27 @@
-Parts:
-    Riff:   .... .... .... ....
-            E/Ab B/F# A/E
-            EEEB AAA
-            3337 666? 7777 6677
-    Chorus: .... .... .... ....
+........ Melody (Chords Only)
+........ Melody Light
+........ Melody Light
+........ Melody
+........ Melody
 
-Riff x 1 (Keyboard only)
-Riff x 2 (light)
-Riff x 2
-Verse, Chorus, Riff x 1
-Verse, Chorus, Riff x 2
-Verse, Chorus, Riff x 4
+........ Verse
+........ Prechorus
+........ Chorus
+
+........ Melody
+
+........ Verse
+........ Prechorus
+........ Chorus
+
+........ Melody
+........ Melody
+
+........ Verse
+........ Prechorus
+........ Chorus
+
+........ Melody
+........ Melody
+........ Melody (Louder Chords)
+........ Melody (Louder Chords)
