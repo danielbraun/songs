@@ -1,12 +1,14 @@
-.... .... .... .... .... .... .... .... Intro
-.... .... .... .... .... .... .... .... Verse
+........ Intro       | Hi-Hat forths, then add kicks
+........ Intro       | Hi-hat 16ths
+........ Verse       | kick tam-tatam, 8ths hi-hat
 
-.... .... .... .... Intro
-.... .... .... .... .... .... .... .... Verse
-.... .... .... .... .... .... .... .... Chorus
-.... .... .... .... .... .... .... .... Breaks
+....     Intro       |
+........ Verse       | Add snare to beat
+........ Chorus      | 8ths: Ride 4ths: kick
 
-.... .... .... .... .... .... .... .... Intro
-.... .... .... .... .... .... .... .... Verse
-.... .... .... .... .... .... .... .... Chorus
-.... .... .... .... .... .... .... .... Chorus Heavy
+........ Breaks
+
+........ Intro
+........ Verse quiet | just kick and hi-hat
+........ Chorus      | add double snare
+........ CHORUS      | add crashes
