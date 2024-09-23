@@ -1,10 +1,14 @@
-intro .... .... .... .... .... .... .... ....
+.... ....    Intro
+.... ....    Verse
+.... .... .. Chorus
 
-verse .... .... .... .... .... .... .... ....
+....         Intro
+.... ....    Verse
+.... .... .. Chorus
 
-chorus .... .... .... .... .... .... .... .... .... ....
-
-intro .... .... .... ....
-verse .... .... .... .... .... .... .... ....
-
-messy
+.... .... .  Breaks
+.... ....    Quiet (That's how it starts)
+.... ...     Qiuet ... ohh  star
+.... ....    Chorus (star on the wall)
+.... ....    Chorus (everybody's trying)
+.... ...     Chorus (... I don't give a fuck)
